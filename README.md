@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Naga Satya
 - 👀 I’m interested in developing predictive models and play with data
-- 🌱 I’m currently working as Machine Learning Engineer for a silicon valley company!
-- 💞️ I’m looking to collaborate on startup ideas
 - 📫 Reach me at nagasatya.pedineedi@gmail.com
 
 <!---
